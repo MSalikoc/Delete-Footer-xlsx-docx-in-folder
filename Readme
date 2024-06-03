@@ -1,0 +1,15 @@
+## Delete Footer on documents in folder
+
+This repository contains a PowerShell script to retrieve delete Footer on documents in folder.
+
+## Prerequisites
+
+- PowerShell 7.x
+## Setup
+-Run as Admin Powershell
+-Download Powershell script deletefooter.ps1
+Run the script
+and review
+
+
+Enjoy!
