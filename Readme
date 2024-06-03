@@ -1,4 +1,6 @@
 ## Delete Footer on documents in folder
+When you need to edit footers in multiple documents, doing it manually can be time-consuming. If you need to remove a specific footer like “Classification” from all documents, automating the process can save you a lot of time. PowerShell is an ideal tool for this task. In this post, we’ll walk you through how to use PowerShell to delete the “Classification” footer from all your documents.
+
 
 This repository contains a PowerShell script to retrieve delete Footer on documents in folder.
 
